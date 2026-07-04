@@ -92,12 +92,3 @@ Dataset contains Machine Learning and AI research papers including:
 - Automated summarization and topic discovery
 - Improved research exploration workflow
 
-
-
-## Author
-
-Vandana Sagar
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
